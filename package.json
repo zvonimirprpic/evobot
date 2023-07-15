@@ -5,6 +5,7 @@
   "main": "index.ts",
   "author": "Erit Islami <eritislami@gmail.com>",
   "private": true,
+  "type": "module",
   "homepage": "https://github.com/eritislami/evobot",
   "repository": "github:eritislami/evobot",
   "bugs": "https://github.com/eritislami/evobot/issues",
